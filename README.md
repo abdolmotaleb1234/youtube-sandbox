@@ -1,8 +1,6 @@
 # 📥 دانلود ویدیو از یوتیوب با GitHub Actions
 
-این مخزن با استفاده از **GitHub Actions** بهت اجازه می‌ده که فقط با 
-ایده اصلی این بود که بدون نیاز به فیلترشکن و کانفیگ‌های گروقه‌مون و ذخیره کنیم. فقط کافیه لینک ویدیو 
-> [!TIP](https://github.com/patterniha/MITM-DomainFronting) استفاده کنی تا بدون فیلترشکن هم بتونی به یوتیوب دسترسی داشته باشی.
+این مخزن با استفاده از **GitHub Actions
 
 <br><br>ریپو ### ۲. برو به **Setings → Actions → General**
 ### ۳. در بخش **Workflow permissions** گزینه **Read and write permissions** رو انتخاب کن و **Save** رو بزن.
