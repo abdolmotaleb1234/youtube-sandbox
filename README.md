@@ -7,8 +7,7 @@
 > [!TIP]
 > برای دیدن لیست ویدیوها احتمالاً نیاز به فیلترشکن داری، ولی پیشنهاد من اینه که از پروژه [MITM-DomainFronting](https://github.com/patterniha/MITM-DomainFronting) استفاده کنی تا بدون فیلترشکن هم بتونی به یوتیوب دسترسی داشته باشی.
 
-<br><br>ریپو ر
-### ۲. برو به **Settings → Actions → General**
+<br><br>ریپو ### ۲. برو به **Settings → Actions → General**
 ### ۳. در بخش **Workflow permissions** گزینه **Read and write permissions** رو انتخاب کن و **Save** رو بزن.
 ### ۴. ساخت Secret برای کوکی‌ها (خیلی مهم!)
 
