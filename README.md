@@ -1,14 +1,7 @@
 # 📥 دانلود ویدیو از یوتیوب با GitHub Actions
 
 این مخزن با استفاده از **GitHub Actions
-
-<br><br>ریپو ### ۲. برو به **Setings → Actions → General**
-### ۳. در بخش **Workflow permissions** گزینه **Read and write permissions** رو انتخاب کن و **Save** رو بزن.
-### ۴. ساخت Secret برای کوکی‌ها (خیلی مهم!)
-
-یوتیوب ربات‌ها رو تخیص می‌ده، برای همین باید خودمون رو مثل یه کاربر واقعی نشون بدیم.
-
-**مراحل:**
+*
 
 1. توی مرورگر (ترجیحاً **حالت ناشناس**) با حسابت وارد یوتیوب شو.
 2. افزونه **[Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)** رو نصب کن.
