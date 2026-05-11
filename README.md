@@ -2,7 +2,7 @@
 
 این مخزن با استفاده از **GitHub Actions
 *
-1. توی مرورگر (ترجیحاً **حالت ناشناس**) با حسابت وارد یوتیوب شو.
+1. توی مرورگر (ترجی **حالت ناشناس**) با حسابت وارد یوتیوب شو.
 2. افزونه **[Get cookies.txt LOCALLY](https://chromewebstore.google.com/detil/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)** رو نصب کن.
 3. روی آیکون افزونه کلیک کن و **Export** رو بزن تا فایل `cookies.txt` دانلود بشه.
 4. برو به **Settings → Secrets and variables → Actions*
