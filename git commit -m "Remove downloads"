@@ -1,8 +1,7 @@
 # 📥 دانلود ویدیو از یوتیوب با GitHub Actions
 
 این مخزن با استفاده از **GitHub Actions
-*
-1. توی مرورگر (ترجی **حالت ناشناس**) با حسابت وارد یوتیوب شو](https://chromewebstore.google.com/detil/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)** رو نصب کن.
+*hromewebstore.google.com/detil/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)** رو نصب کن.
 3. روی آیکون افزونه کلیک کن و **Export** رو بزن تا فایل `cookies.txt` دانلود بشه.
 4. برو به **Settings → Secrets and variables → Actions*
 5. روی **New repository secret** کلیک کن.
