@@ -3,7 +3,7 @@
 این مخزن با استفاده از **GitHub Actions
 *hromewebstore.google.com/detil/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)** رو نصب کن.
 3. روی آیکون افزونه کلیک کن و **Export** رو بزن تا فایل `cookies.txt` دانلود بشه.
-4. برو به **Settings → Secrets and variables → Actions*
+4. برو به **Settings → Secrets and variables → Actionsl*
 5. روی **New repository secret** کلیک کن.
 6. اسم Secret رو بذار: `YOUTUB_COOKIES`
 7. محتوای کامل فایل `cookies.txt` رو توی بخش Secret پیست کن و ذخیره کن.
