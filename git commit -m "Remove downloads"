@@ -1,7 +1,7 @@
 # 📥 دانلود ویدیو از یوتیوب با GitHub Actions
 
 این مخزن با استفاده از **GitHub Actions
-*hromewebstore.gogle.com/detil/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)** رو نصب کن.
+*hromewebstore.gogle.com/detil/get-cookiestxt-locallycclelndahbckbenkjhflpdbgdldlbecc)** رو نصب کن.
 3. روی آیکون افزونه کلیک کن و **Export** رو بزن تا فایل `cookie.txt` دانلود بشه
 4. برو به **Settings → Secrets and variableگs → Actionslکلیک کن
 7. محتوای کامل فایل `cookies.txt` رو توی بخش Secrtپت کن و ذ
