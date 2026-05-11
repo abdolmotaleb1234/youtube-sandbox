@@ -5,7 +5,7 @@
 1. توی مرورگر (ترجیحاً **حالت ناشناس**) با حسابت وارد یوتیوب شو.
 2. افزونه **[Get cookies.txt LOCALLY](https://chromewebstore.google.com/detil/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)** رو نصب کن.
 3. روی آیکون افزونه کلیک کن و **Export** رو بزن تا فایل `cookies.txt` دانلود بشه.
-4. برو به **Settings → Secrets and variables → Actions**
+4. برو به **Settings → Secrets and variables → Actions*
 5. روی **New repository secret** کلیک کن.
 6. اسم Secret رو بذار: `YOUTUB_COOKIES`
 7. محتوای کامل فایل `cookies.txt` رو توی بخش Secret پیست کن و ذخیره کن.
